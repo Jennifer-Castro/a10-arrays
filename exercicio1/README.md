@@ -6,3 +6,4 @@ No primeiro exercício vamos praticar a criação de arrays. Crie 3 arrays difer
 - O segundo array deve possuir apenas **strings**;
 - O terceiro array deve possuir **números**, **strings** e **booleanos**.
 Imprima cada um dos arrays acima, utilizando `console.log()`
+
